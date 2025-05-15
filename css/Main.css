@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:lightgray;}
+#Wrapper {width: 900px; margin: 0px auto;background-color: white;}
+
+#SuperWrapper {width: 1000px; margin: 0px auto;background-color: white;}
+#Logo {float:left;}
+
+#Icon {float:right;}
+
+#navigasion{clear:both;word-spacing: 40px; border-top: solid black 1px;border-bottom: solid black 1px; margin-bottom: 10px; padding : 10px; font-size: 12px; font-family: Arial;}
+
+#navigasion a:link {color:black;}
+#navigasion a:visited {color:black;}
+#navigasion a:hover {color:#FF9900;}
+#navigasion a {text-decoration-line: none;}
+
+#Kotak1 {float:left; width:700px; }
+#Kotak1 h1 {color:#FF9900;border-bottom:solid black 1px; padding-bottom: 10px;}
+#Kotak1 img {margin: 10px; border: solid black 0.5px; padding: 10px;}
+
+
+#Kotak2 {float:left; width:900px; }
+#Kotak2 h1 {color:#FF9900;border-bottom:solid black 1px; padding-bottom: 10px;}
+#Kotak2 img {margin: 10px; border: solid black 0.5px; padding: 10px;}
+
+#Kotak3 {float:left; width:300px; background-color: #E9E9E9;border-top: solid red 10px; float : left; width:250px; margin:25px;}
+#Kotak3 h2 {color:#000000;}
+
+#Kotak4 {float:left; width:300px;background-color: #E9E9E9;border-top: solid blue 10px; float : left; width:250px; margin:25px; }
+#Kotak4 h2 {color:#000000;}
+
+#Kotak5 {float:left; width:300px;background-color: #E9E9E9;border-top: solid green 10px; float : left; width:250px; margin:25px;}
+#Kotak5 h2 {color:#000000;}
+
+#Kanan {float:right; width:200px;}
+#Kanan h2 {clear:both; margin-top: -20px; margin-left: 20px; font-size: 20px;}
+#Kanan h3 {color:#FF9900; margin-left: 20px; font-size: 15px;}
+#Kanan h1 {margin-left: 20px}
+#Kanan p {margin-left: 20px}
+
+#gallery img {border: solid black 0.5px; padding: 5px;}
+#gallery 
+
+#Footer {clear:both;text-align: center;}
+#Footer {border-top:solid black 1px;}
+
+
+
